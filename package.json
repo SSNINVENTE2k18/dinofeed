@@ -1,0 +1,19 @@
+{
+  "name": "dinofeed",
+  "version": "1.0.0",
+  "description": "Data repo for inventosarus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSNINVENTE2k18/dinofeed.git"
+  },
+  "author": "mil10akash@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSNINVENTE2k18/dinofeed/issues"
+  },
+  "homepage": "https://github.com/SSNINVENTE2k18/dinofeed#readme"
+}
