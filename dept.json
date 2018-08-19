@@ -1,0 +1,11 @@
+{
+	"cse":{
+		"fullName":"Computer Science & Engineering",
+		"displayName":"CSE"
+	},
+	"it":{
+		"fullName":"Information Technology",
+		"displayName":"IT"
+	}
+
+}
