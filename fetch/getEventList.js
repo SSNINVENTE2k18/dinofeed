@@ -1,14 +1,47 @@
 const gsheet = require('./gsheet');
 const slugify = require('slugify');
+const dept = require('../dept.json');
 const fs =require('fs');
+const _ = require('lodash');
 const sheetId = '1t9WychTprrrYWdO4-vLBCFAjUXZG_VywDgEZ6NtJHKA';
 
-gsheet(sheetId).then(data=> {
-	let latestData = data.entry.map( entry => ({
+gsheet(sheetId).then( data => {
+	let obj = {};
+	let eventList = [];
+	Object.keys(dept).forEach(x => obj[x]= {});
+	console.log(obj);
+	data.entry.forEach( entry => {
+		let fields = fieldMap(entry);
+		eventList.push(slugify(fields.eventname.toLowerCase(),'-'));
+
+		
+		fields.department = slugify(fields.department,{
+			lower:'true',
+			replacement:'-'
+		});
+		fields.eventname = slugify(fields.eventname,{lower:'true',replacement:'-'});
+
+		obj[fields.department][fields.eventname] = fields.eventname;
+		//depts[fields.department] || [];
+		//depts[fields.department].push(fields.eventname);
+		//[fields.eventname] = fields;
+	});
+	let uniqEventList = _.uniq(eventList);
+	console.log(_.uniq(eventList).join(','));
+	fs.writeFile('./eventlist.json',JSON.stringify(obj),(err,data)=>{
+		console.log(err,data);
+	});
+	/*({
 		[slugify(entry.gsx$eventname.$t,{lower:true})] : fieldMap(entry)
 	}));
-	fs.writeFile('../eventlist.json',JSON.stringify(latestData));
+	
+
+
+
+
+	*-+/iteFile('../eventlist.json',JSON.stringify(latestData));
 	console.log(Object.assign(...latestData));
+	*/
 });
 
 

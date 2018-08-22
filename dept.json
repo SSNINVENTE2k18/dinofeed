@@ -6,6 +6,28 @@
 	"it":{
 		"fullName":"Information Technology",
 		"displayName":"IT"
+	},
+	"chem":{
+		"fullName":"Chemical",
+		"displayName":"CHEMICAL"
+	},
+	"mech":{
+		"displayName":"MECHANICAL"
+	},
+	"eee":{
+		"displayName":"EEE"
+	},
+	"ece":{
+		"displayName":"ECE"
+	},
+	"bme":{
+		"displayName":"BME"
+	},
+	"civil":{
+		"displayName":"civil"
+	},
+	"maths":{
+		"displayName":"Maths"
 	}
 
 }
