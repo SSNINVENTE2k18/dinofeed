@@ -1,15 +1,18 @@
 {
   "name": "@ssn/dinofeed",
-  "version": "1.0.9",
+  "version": "2.0.1",
   "description": "Data repo for inventosarus",
-  "main": "index.js",
+  "main": "lib/index.js",
   "private": false,
   "scripts": {
-    "babelify": "node_modules/.bin/babel src -d lib --copy-files",
+    "babelify": "babel src/index.js -o lib/index.js",
     "pub": "yarn babelify && npm publish --access public"
   },
-  "babel":{
-    "presets":["env"]
+  "babel": {
+    "presets": [
+      "env",
+      "es2015"
+    ]
   },
   "author": "mil10akash@gmail.com",
   "license": "ISC",
@@ -17,5 +20,10 @@
     "axios": "^0.18.0",
     "lodash": "^4.17.10",
     "slugify": "^1.3.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1"
   }
 }
