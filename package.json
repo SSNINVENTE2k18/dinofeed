@@ -1,11 +1,15 @@
 {
   "name": "@ssn/dinofeed",
-  "version": "1.0.5",
+  "version": "1.0.9",
   "description": "Data repo for inventosarus",
   "main": "index.js",
   "private": false,
   "scripts": {
-    "publish": "npm publish --access public"
+    "babelify": "node_modules/.bin/babel src -d lib --copy-files",
+    "pub": "yarn babelify && npm publish --access public"
+  },
+  "babel":{
+    "presets":["env"]
   },
   "author": "mil10akash@gmail.com",
   "license": "ISC",

@@ -1,9 +1,7 @@
-let eventlist = require('./eventlist.json');
-let department = require('./dept.json');
-const slugify = require('slugify');
+let eventlist = require('./data/eventlist.json');
+let department = require('./data/dept.json');
+let eventdetail = require('./data/eventdetail');
 
-
-const slug = (str)=> slugify(str,{lower:true,replacement:'-'});
 module.exports = {
-	eventlist,department,slug
+	eventlist,department,eventdetail
 };

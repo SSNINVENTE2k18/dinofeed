@@ -1,0 +1,314 @@
+{
+  "cse": {},
+  "it": {},
+  "chem": {},
+  "mech": {},
+  "eee": {},
+  "ece": {
+    "paper-presentation": {
+      "dept": "ece",
+      "slug": "paper-presentation",
+      "last_updated": "8/26/2018 11:50:33",
+      "description": "Paper Presentation is one of the most iconic events in INVENTE 3.0. It is here that students have a great platform to showcase their innovative ideas that could lead to great revolutions in technology.",
+      "eventtype": "Technical",
+      "tagline": null,
+      "eventname": "Paper Presentation",
+      "notes": "",
+      "eventHeads": [
+        {
+          "name": "Reshma Immaculate R.",
+          "email": "reshma15088@ece.ssn.edu.in",
+          "contact": "9677190259"
+        },
+        {
+          "name": "Harini S.",
+          "email": "",
+          "contact": "7395953916"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [],
+        "Teams will have to describe their ideas in a small abstract not more than 250 words. Based on the abstracts sent, teams will get shortlisted to the next round.",
+        "Teams shortlisted in the previous round will have to send in the full paper clearly explaining the project idea. Based on the papers sent, teams will get shortlisted to present the paper on the day of the event.",
+        [],
+        []
+      ]
+    },
+    "in-a-way-tee": {
+      "dept": "ece",
+      "slug": "in-a-way-tee",
+      "last_updated": "8/26/2018 12:32:13",
+      "description": "En Vazhi, Thani Vazhi'\nPassionate about technology? Tired of all the theory you’re reading? Want to challenge your gray matter with a real-life problem? You have come to the right place! At IN-A-WAY-TE, you will be solving a problem that people face in their everyday lives. It is an opportunity to learn what can be done and how it can be done. At the end, you’d have a solution to the problem - your own solution - which you can implement and claim to be a real-time problem solver. What more? You’ll also learn important aspects of problem solving like first principles thinking, breaking the problem into modules, and much more. Come and see for yourself!!  \n\nPRELIMS : WRITTEN ROUND\n10-15 questions distributed across three sections - puzzles, electronics, programming. \nDuration – 50 minutes.\n\nFINALS:\nTeams can choose between hardware/software for this round. Depending on their choice, different problem statements will be given. To make the competition fair and square, teams can choose between either two software questions or one hardware question.  \nWhat’s most important is the approach to the problem and not solving it per se.",
+      "eventtype": "Technical",
+      "tagline": "En Vazhi, thani Vazhi",
+      "eventname": "In-a-way-tee",
+      "notes": "",
+      "eventHeads": [
+        {
+          "name": "Brathindara S",
+          "email": "brathindara15018@ece.ssn.edu.in",
+          "contact": "9789165426"
+        },
+        {
+          "name": "Nikhilesh N",
+          "email": "nikhilesh15071@ece.ssn.edu",
+          "contact": "8754434279"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [],
+        "Groups of 2 or 3\nWritten round with 10 to 15 questions distributed across puzzles, electronics and programming. \nDuration : 50 minutes",
+        "Final Round\nDuration : 90 minutes\nTeams can choose between 2 software problem statements or one hardware problem statement to maintain a fair competition. \nEvaluation is based on the approach to Problem solving. \n30 minutes of Problem Analysis - to think of a solution or algorithm to solve the real life problem statement presented to the contestants. At the end of this duration, the teams will have to present the idea to the jury. \nOnce the Problem Analysis round is complete, the contestants can move on to hands-on Implementation of the solution, the duration of which is about one hour. ",
+        [],
+        []
+      ]
+    },
+    "solder-it": {
+      "dept": "ece",
+      "slug": "solder-it",
+      "last_updated": "8/26/2018 12:55:13",
+      "description": "Connecting and building a circuit and showing  their technical talent by soldering it on a PCB dot board. ",
+      "eventtype": "Technical",
+      "tagline": "Wish to bond Electronics with electronics",
+      "eventname": "Solder It",
+      "notes": "",
+      "eventHeads": [
+        {
+          "name": "Iswarya B",
+          "email": "",
+          "contact": "7397040073"
+        },
+        {
+          "name": "",
+          "email": "",
+          "contact": ""
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [],
+        "There will be a Q&A based round.\nParticipants will be tested on technical skills.",
+        "This is a design round.\nParticipants will be asked to design a circuit for given criteria on the spot.\n",
+        "Top 8 teams from round 2 will be tested on their soldering skills.\nTeams will be soldering their circuit on a PCB dot board.",
+        []
+      ]
+    }
+  },
+  "bme": {
+    "biogonize": {
+      "dept": "bme",
+      "slug": "biogonize",
+      "last_updated": "8/26/2018 13:06:45",
+      "description": "Totally 3 rounds,based on general engineering stuffs.And a team of 2 should participate",
+      "eventtype": "Technical",
+      "tagline": "It's not just your brains that needs to play!",
+      "eventname": "BIOGONIZE",
+      "notes": "",
+      "eventHeads": [
+        {
+          "name": "Sivaranjani.M",
+          "email": "siva.rj98@gmail.com",
+          "contact": "9940425108"
+        },
+        {
+          "name": "Sowmiya.M",
+          "email": "sowmi18997@gmail.com",
+          "contact": "9629043022"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [],
+        "Fast video will be played and u have to identify the things in that video.The one who find maximum things wins the game",
+        "U will be given few points using that points u should buy waste material and to make model out of that waste",
+        "Rapid fire round",
+        []
+      ]
+    },
+    "scintelligence-3.0": {
+      "dept": "bme",
+      "slug": "scintelligence-3.0",
+      "last_updated": "8/26/2018 9:52:57",
+      "description": "Leggo again!!!!!Expose The scrumdelicious… The hard earned thirst!!\nBecause engineering is complicated enough, we make it much more complicated. Come as good as it gets! To the resurging SCINTELLIGENCE 3.0 bundled up with newer better and bigger rounds.\n\nPrelims:\n1) Bounce OFF.\n\nSem finals:\n1) Tap to cap.\n2) Where do i kept my bits?\n\nFinals\n1) Cap yourself Sherlock.\n2) Wolf of the wall street.",
+      "eventtype": "Technical",
+      "tagline": "Tighten!! the power is on your side and Don’t leave the house without prize. ",
+      "eventname": "SCINTELLIGENCE 3.0",
+      "notes": "",
+      "eventHeads": [
+        {
+          "name": "Viswanath. S",
+          "email": "viswanath15061@bme.ssn.edu.in",
+          "contact": "7358165357"
+        },
+        {
+          "name": "Arun kumar. K",
+          "email": "arunkumar15010@bme.ssn.edu.in",
+          "contact": "8148837599"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [],
+        "Bounce OFF!\n\nForget pinballs, for we now have bin and balls!\n\nTime duration: 30mins \nScoring: 2pts / answer.",
+        "Tap to cup\n\nToss the spoon really soon, get the clue to edge over the crew.\n\nTime duration: 30mins \nScoring: 2pts / answer",
+        "Where do I kept my bit?\n\nThere’s many a slip twixt the cup and the lip…\nGo for it and tap into the pit!\n\nTime duration: 30mins \nScoring: 2pts / answer",
+        "Cap yourself sherlock\n\nTo a great mind, nothing is little. Come! Eliminate the impossible. Let’s see who is the Sherlock of this new generation.\n\nTime duration: 30mins \nScoring: 5pts / answer"
+      ]
+    }
+  },
+  "civil": {},
+  "maths": {
+    "as-you-like-it": {
+      "dept": "maths",
+      "slug": "as-you-like-it",
+      "last_updated": "8/24/2018 21:17:14",
+      "description": "As you like it is an event with fun oriented mathematical games. It need not be conceptually intricate to involve deeper computational underpinnings. This event differ sharply from mathematical quiz in that mathematical quiz require specific mathematical expertise to complete, whereas it do not require a deep knowledge of mathematics to play. They are of deep interest in the field of recreational mathematics. These games have simple rules and match procedures with logic and recreation. If you and your team think that you deserve the honour, then this is your opportunity. Come and grab it! \n",
+      "eventtype": "Technical",
+      "tagline": null,
+      "eventname": "As you like it",
+      "notes": "",
+      "eventHeads": [
+        {
+          "name": "Anjana",
+          "email": "ssnexlog@gmail.com",
+          "contact": "8903271623"
+        },
+        {
+          "name": "Suvetha ",
+          "email": "",
+          "contact": "7397381783"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [],
+        "Team consists of maximum of three members\nThere will be ten event with recreational mathematics.\nEach event has separate points based on the performance.\nFinal points will be the cumulative score of whole event.",
+        [],
+        [],
+        []
+      ]
+    },
+    "dump-c": {
+      "dept": "maths",
+      "slug": "dump-c",
+      "last_updated": "8/24/2018 21:17:59",
+      "description": "Are you a math wiz who's tired of conventional competitions? Or are you someone who loves express oneself with a myriad of expressions and actions? Do people say that you're great at understanding others with no words being spoken? Or are you simply someone who's looking for some fun? Well look no more! Here's an event that's sure to entertain all of you! Come, participate in the Dumb-C event at Exlog 2015, the national level technical symposium organised by the department of Mathematics at SSN College of Engineering. This isn't just your everyday charades game. It's got different rounds of exciting variations of Dumb-C, each with a Mathematical twist. You don't want to miss this one. Be there on 27 August to enjoy the fun. \n",
+      "eventtype": "Technical",
+      "tagline": null,
+      "eventname": "Dump-C",
+      "notes": "",
+      "eventHeads": [
+        {
+          "name": "Arun V",
+          "email": "ssnexlog@gmail.com",
+          "contact": "8531919708"
+        },
+        {
+          "name": "Subhashini S",
+          "email": "",
+          "contact": "8056924790"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [],
+        " An aptitude test to test your talent.\nMaximum of 3 per team and minimum of 2.\n",
+        "A mathematical term enacted by a teammate and guessed by the others on the team. Team that takes the least time wins.\n",
+        "Connect the pictures or Guess the word. 4 pictures will be given and contestants have to understand the similarity shared among them and guess the word. Else one of the contestants will be given a word and 4 relevant terms should be said to guess the word.\n",
+        []
+      ]
+    },
+    "bigg-boss": {
+      "dept": "maths",
+      "slug": "bigg-boss",
+      "last_updated": "8/24/2018 23:52:06",
+      "description": "As the name says \"Bigg Boss\" is an event that tests your adaptability along with your mathematical knowledge. Prelims will be conducted which include mathematical related technical and aptitude questions. Top 20 will be entering the biggboss house. It is a challenge to stay inside the house for 100 minutes. Tasks will be given periodically and eviction for every 10 minutes. Contestants should follow the instructions given by the secret judge and will be eliminated if they failed to do so",
+      "eventtype": "Technical",
+      "tagline": "100 minutes challenge",
+      "eventname": "Bigg Boss",
+      "notes": "",
+      "eventHeads": [
+        {
+          "name": "Anu harshini",
+          "email": "ssnexlog@gmail.com",
+          "contact": "9843270987"
+        },
+        {
+          "name": "Avudainayagi M",
+          "email": "",
+          "contact": "8681858569"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [],
+        "Prelims\n1.Total 30 questions (technical 15 questions and aptitude 15 questions)\n2.No electronic gadgets should be bought inside during the game.",
+        "1.Tasks will be given periodically.\n2.No electronic gadgets should be bought inside during the game.\n3.Contestants should follow the rules inside the biggboss house",
+        [],
+        []
+      ]
+    },
+    "paper-presentation": {
+      "dept": "maths",
+      "slug": "paper-presentation",
+      "last_updated": "8/24/2018 23:36:49",
+      "description": "AREAS & TOPICS FOR PRESENTATION :\nMECHANICAL ENGINEERING :\n•\tMathematics in supply chain management.\n•\tScheduling problem using operation research.\n•\tGame theory.\nELECTRONICS AND COMMUNICATION ENGINEERING:\n•\tSignal processing:\ni.\tUsage of linear algebra\nii.\tTransforms ( Fourier, Laplace)\nCOMPUTER SCIENCE ENGINEERING:\n•\tNetworking:\ni.\tGraph theory\nii.\tProbability and statistics\nBIOMEDICAL ENGINEERING:\n•\tBrain network, signals using Graph theory and stochastic process\n",
+      "eventtype": "Technical",
+      "tagline": null,
+      "eventname": "Paper presentation ",
+      "notes": "",
+      "eventHeads": [
+        {
+          "name": "Hema priya  ",
+          "email": "ssnexlog@gmail.com",
+          "contact": "9445826410"
+        },
+        {
+          "name": "Eshwar  ",
+          "email": "",
+          "contact": "9962022236"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [],
+        "•\tCandidates should send their paper in soft copy to the e-mail address ssnexlog@gmail.com before the LAST DATE (07/09/2018). PAPERS MAILED AFTER 07/09/2018, 08.00PM WILL NOT BE CONSIDERED.\n•\tCan be a team of two members.\n•\tSpot entries are not allowed.\n•\tAccepted papers will be intimated through their mail id on or before 14/09/2018.\n",
+        "•\tThe presentation time is 8 minutes and the queries for 2 minutes for each paper.\n•\tSelected candidates should bring 2 hard copies at the time of presentation.\n•\t2 copies of abstract for the presentation in hardcopy required on the day of presentation, not exceeding 300 words.\n",
+        [],
+        []
+      ]
+    },
+    "math-quiz": {
+      "dept": "maths",
+      "slug": "math-quiz",
+      "last_updated": "8/24/2018 23:45:57",
+      "description": "This event will test both your aptitude and general knowledge about the mathematical world. It's a 2 round event comprising of a pen-paper and a quiz style round",
+      "eventtype": "Technical",
+      "tagline": null,
+      "eventname": "Math quiz",
+      "notes": "",
+      "eventHeads": [
+        {
+          "name": " Moulieeshwar ",
+          "email": "ssnexlog@gmail.com",
+          "contact": "8939180153"
+        },
+        {
+          "name": " Edwin ",
+          "email": "",
+          "contact": "8056081627"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [],
+        "PRELIMS\n•\t20 questions in total\n•\tTime limit : 30 minutes\n•\t10 questions from aptitude and 10 from general plus a bonus question. All questions carry multiple choice except the bonus question.\n•\tEach correct answer earns your team 2 points. Aptitude section carries negative marking.\n•\tMaximum possible score :45\n•\tTop 6-8 teams will qualify for the finals.\n•\tQuiz master's decision is final and binding\n",
+        "FINALS\n•\tThe Final round will consist of 6 rounds containing 2 rounds each from general and aptitude section and 2 special rounds.\n•\tother rules will be intimated on the spot.\n",
+        [],
+        []
+      ]
+    }
+  }
+}

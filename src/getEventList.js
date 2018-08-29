@@ -1,6 +1,6 @@
 const gsheet = require('./gsheet');
 const slugify = require('slugify');
-const dept = require('../dept.json');
+const dept = require('../data/dept.json');
 const fs =require('fs');
 const _ = require('lodash');
 const sheetId = '1t9WychTprrrYWdO4-vLBCFAjUXZG_VywDgEZ6NtJHKA';
@@ -14,14 +14,13 @@ gsheet(sheetId).then( data => {
 		let fields = fieldMap(entry);
 		eventList.push(slugify(fields.eventname.toLowerCase(),'-'));
 
-		
+
 		fields.department = slugify(fields.department,{
 			lower:'true',
 			replacement:'-'
 		});
-		fields.eventname = slugify(fields.eventname,{lower:'true',replacement:'-'});
 
-		obj[fields.department][fields.eventname] = fields.eventname;
+		obj[fields.department][slugify(fields.eventname,{lower:'true',replacement:'-'})] = fields.eventname;
 		//depts[fields.department] || [];
 		//depts[fields.department].push(fields.eventname);
 		//[fields.eventname] = fields;
@@ -34,7 +33,7 @@ gsheet(sheetId).then( data => {
 	/*({
 		[slugify(entry.gsx$eventname.$t,{lower:true})] : fieldMap(entry)
 	}));
-	
+
 
 
 
@@ -52,4 +51,3 @@ function fieldMap(entry){
 	}));
 	return Object.assign(...arr);
 }
-

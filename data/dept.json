@@ -8,25 +8,31 @@
 		"displayName":"IT"
 	},
 	"chem":{
-		"fullName":"Chemical",
+		"fullName":"Chemical Engineering",
 		"displayName":"CHEMICAL"
 	},
 	"mech":{
+		"fullName":"Mechanical Engineering",
 		"displayName":"MECHANICAL"
 	},
 	"eee":{
+		"fullName":"Electrical & Electronics Engineering",
 		"displayName":"EEE"
 	},
-	"ece":{
+	"ece":{ 
+		"fullName":"Electrical & Communcation Engineering",
 		"displayName":"ECE"
 	},
 	"bme":{
+		"fullName":"Bio Medical Engineering",
 		"displayName":"BME"
 	},
 	"civil":{
+		"fullName":"Civil Engineering",
 		"displayName":"civil"
 	},
 	"maths":{
+		"fullName":"Mathematics",
 		"displayName":"Maths"
 	}
 
